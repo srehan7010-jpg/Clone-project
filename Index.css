@@ -1007,6 +1007,17 @@ img {
 
 }
 
+@media (max-width:376px) {
+  .ID {
+    width: 260px;
+}
+
+    .languagepicker-2 {
+        padding: 2px;
+        min-width: 34%;
+    }
+}
+
 /* Mobile Portrait - 320px */
 @media (max-width: 320px) {
 
