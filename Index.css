@@ -1012,6 +1012,10 @@ img {
     width: 260px;
 }
 
+.get {
+
+}
+
     .languagepicker-2 {
         padding: 2px;
         min-width: 34%;
@@ -1021,6 +1025,12 @@ img {
   width: 300px;
 }
 
+}
+
+@media (max-width: 376px) {
+    .get {
+        margin-left: 35px;
+    }
 }
 
 /* Mobile Portrait - 320px */
