@@ -78,7 +78,7 @@ header {
 
 select {
   display: inline-block;
-  padding: 4px;
+  padding: 4px 6px;
   color: white;
   background: transparent;
   appearance: none;
@@ -979,7 +979,7 @@ img {
   }
 
   select {
-    padding: 4px 12px;
+    padding: 4px 6px;
   }
 
   .footer-list {
